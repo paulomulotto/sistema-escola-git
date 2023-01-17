@@ -1,5 +1,4 @@
 class Aluno:
-    def __init__(self, nome, cpf, escola):
-        self.nome = nomee # erro intencional
+    def __init__(self, nome, cpf):
+        self.nome = nome
         self.cpf = cpf
-        self.escola.append(self)
